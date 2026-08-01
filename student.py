@@ -1,4 +1,4 @@
 a=10
 b=20
 print(a+b)
-print("Welcome to git and github tutorial")
+print("Welcome to git and github class")
